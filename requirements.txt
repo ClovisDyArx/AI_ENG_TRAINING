@@ -1,0 +1,11 @@
+# Simple GenAI back-end :
+
+fastapi[standard] # web framework
+uvicorn # web server
+pydantic # data validation
+requests # web requests
+python-dotenv # .env vars
+pillow # image processing
+python-multipart # file upload
+
+# Simple RAG :
