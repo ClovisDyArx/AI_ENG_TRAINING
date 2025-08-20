@@ -27,7 +27,7 @@ headers = {
 app = FastAPI(
     title="GenAI Backend API",
     description="Backend for the Next.js, AI app.",
-    version="1.0.0"
+    version="1.0.0",
 )
 
 # --- cors (middleware) ---
